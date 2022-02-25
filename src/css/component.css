@@ -1,0 +1,9 @@
+.content {
+    color: #11443311;
+    user-select: none;
+    transition: all 1s ease;
+}
+
+:fullscreen {
+    color: red;
+}
